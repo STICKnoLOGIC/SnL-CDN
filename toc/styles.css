@@ -1,0 +1,34 @@
+/* 
+Table of Contents
+Author: STICKnoLOGIC
+Link: https://sticknologic.is-a.dev
+License: GNU GPL v3
+*/
+.snl-toc-item {
+  color: var(--wp--preset--color--contrast);
+  cursor: pointer;
+}
+.snl-toc-item:hover,.snl-toc-item:active {
+  color: var(--wp--preset--color--secondary);
+}
+
+.snl-toc-active {
+  color: var(--wp--preset--color--primary);
+  font-weight: bold;
+}
+.snl-toc-ind-0 {
+  padding-left: 8px;
+}
+.snl-toc-ind-1 {
+  padding-left: 16px;
+}
+.snl-toc-ind-2,.snl-toc-ind-3,.snl-toc-ind-4,.snl-toc-ind-5,.snl-toc-ind-6 {
+  padding-left: 24px;
+}
+.snl-toc-trunc {
+  max-width: 32ch;
+  min-width: 12ch;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

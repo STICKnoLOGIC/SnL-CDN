@@ -5,15 +5,15 @@ Link: https://sticknologic.is-a.dev
 License: GNU GPL v3
 */
 .snl-toc-item {
-  color: var(--wp--preset--color--contrast);
+  color: #000;
   cursor: pointer;
 }
 .snl-toc-item:hover,.snl-toc-item:active {
-  color: var(--wp--preset--color--secondary);
+  color: #ff9100;
 }
 
 .snl-toc-active {
-  color: var(--wp--preset--color--primary);
+  color: #ff7300;
   font-weight: bold;
 }
 .snl-toc-ind-0 {

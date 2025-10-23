@@ -1,6 +1,6 @@
-# 🎨 Curated CSS & JavaScript CDN
+# 🎨 Curated CSS, JavaScript and Files CDN
 
-A curated collection of **CSS and JavaScript** libraries, hosted on GitHub Pages and served via CDN.  
+A curated collection of **CSS and JavaScript** libraries and other Files, hosted on GitHub Pages and served via CDN.  
 Perfect for developers who want reliable, lightweight, and easy-to-use frontend assets.  
 
 🔗 CDN URL: [https://cdn.sticknologic.is-a.dev](https://wordpress-cdn.sticknologic.is-a.dev)

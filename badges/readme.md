@@ -7,6 +7,7 @@ The purpose of this page/section is to make sure the badges is accessible even t
 
 
 ### Proof that I acquired the said badges
+- [Holopin x Hacktoberfest: 1 Badge Club](https://www.holopin.io/hacktoberfest2025/userbadge/cmgoudsw2003ci604jbidgjno)
 - [Hacktoberfest 2025: Super Contributor](https://www.holopin.io/hacktoberfest2025/userbadge/cmgoudsw2003ci604jbidgjno)
 - [Hacktoberfest 2025: Tree Planted](https://www.holopin.io/userbadge/cmgow3s380059l604ise917gh)
 - [Hacktoberfest 2025: Level 4](https://www.holopin.io/hacktoberfest2025/userbadge/cmgm8eoaf000hla04yvge8vn0)

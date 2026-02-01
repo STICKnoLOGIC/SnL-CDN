@@ -20,49 +20,49 @@ License: GNU GPL v3
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 5s linear infinite;
+  animation: scroll-left 5s linear infinite;
 }
 .snl-scroll , .snl-scroll-10s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 10s linear infinite;
+  animation: scroll-left 10s linear infinite;
 }
 .snl-scroll-15s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 15s linear infinite;
+  animation: scroll-left 15s linear infinite;
 }
 .snl-scroll-20s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 20s linear infinite;
+  animation: scroll-left 20s linear infinite;
 }
 .snl-scroll-25s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 25s linear infinite;
+  animation: scroll-left 25s linear infinite;
 }
 .snl-scroll-30s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 30s linear infinite;
+  animation: scroll-left 30s linear infinite;
 }
 .snl-scroll-35s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-right 35s linear infinite;
+  animation: scroll-left 35s linear infinite;
 }
 
 .snl-scroll-right-5s {
@@ -70,49 +70,49 @@ License: GNU GPL v3
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 5s linear infinite;
+  animation: scroll-right 5s linear infinite;
 }
 .snl-scroll-right , .snl-scroll-right-10s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 10s linear infinite;
+  animation: scroll-right 10s linear infinite;
 }
 .snl-scroll-right-15s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 15s linear infinite;
+  animation: scroll-right 15s linear infinite;
 }
 .snl-scroll-right-20s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 20s linear infinite;
+  animation: scroll-right 20s linear infinite;
 }
 .snl-scroll-right-25s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 25s linear infinite;
+  animation: scroll-right 25s linear infinite;
 }
 .snl-scroll-right-30s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 30s linear infinite;
+  animation: scroll-right 30s linear infinite;
 }
 .snl-scroll-right-35s {
   display: flex !important;
   flex-wrap: nowrap !important;
   width: max-content !important;
   white-space: nowrap;
-  animation: scroll-left 35s linear infinite;
+  animation: scroll-right 35s linear infinite;
 }
 
 @keyframes scroll-left {
